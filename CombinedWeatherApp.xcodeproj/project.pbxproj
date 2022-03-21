@@ -31,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		18D775BD22AD944300AE281E /* CombinedWeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombinedWeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7D642F3D27E804A500895320 /* README_test.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README_test.md; sourceTree = "<group>"; };
 		B222515B22D370C60035C1A1 /* WeeklyWeatherBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeeklyWeatherBuilder.swift; sourceTree = "<group>"; };
 		B22B78A222DF3C92004F21B9 /* Formatters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Formatters.swift; sourceTree = "<group>"; };
 		B22B78A422DF3C92004F21B9 /* Array+Filtering.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Array+Filtering.swift"; sourceTree = "<group>"; };
@@ -89,6 +90,7 @@
 				B2EE1C2D22B7CF960039ABC4 /* Utilities */,
 				B2EE1C2122B7CE610039ABC4 /* Supporting Files */,
 				B2EE1C1E22B7CD040039ABC4 /* Weather */,
+				7D642F3D27E804A500895320 /* README_test.md */,
 			);
 			path = CombinedWeatherApp;
 			sourceTree = "<group>";
